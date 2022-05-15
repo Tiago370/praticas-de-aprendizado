@@ -24,7 +24,7 @@ Agora que já está tudo contextualizado, algumas dicas já podem ser ditas, e e
 12. Rode o programa.
 
 ## Ainda não é hora de começar
-É esperado que o código tenha compilado sem nehum erro. Caso haja algum erro na compilação avise o professor, pois o código dele está errado. Também é esperado que você consiga executar o programa sem nenhum problema. Existem várias de executar o programa na sua máquina, que podem variar de acordo com o seu ambiente:
+É esperado que o código tenha compilado sem nehum erro. Caso haja algum erro na compilação avise o professor, pois o código dele está errado. Também é esperado que você consiga executar o programa sem nenhum problema. Existem várias maneiras de executar o programa na sua máquina, que podem variar de acordo com o seu ambiente:
 1. Você pode copiar o texto do arquivo de entrada de um <b>caso de teste</b> e colar no "terminal" que você está rodando.
 2. Ou pode rodar no terminal fazendo o programa ler a entrada automaticamente.
     No terminal do linux rodamos assim:
